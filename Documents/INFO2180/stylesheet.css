@@ -1,0 +1,106 @@
+h1 {
+	font-family:Garamond,sans-serif;
+	color: #cc8033;
+
+}
+
+h4 {
+	font-family:Verdana,serif;
+}
+
+a:hover{
+	color: green;
+}
+
+#email{
+	font-style:none;
+	font-size: 30px;
+}
+
+#left h4{
+	display: inline-block;
+}
+
+#left{
+	position: relative;
+	float: left;
+	width: 60%;
+	padding-left: 10%;
+
+}
+
+#left p{
+	font-size: 1em;
+	display: inline-block;
+}
+
+#right{
+	position: relative;
+	float: right;
+}
+
+#right img{
+	position: relative;
+	width: 275px;
+	height: auto;
+	padding-right: 20%;
+	border-radius: 10px;
+}
+
+
+#left #aboutme{
+	text-align: wrap;
+	font-size: 1em;
+	color: #808080;
+
+}
+
+#footer{
+	clear:both;
+	margin-right:80px;
+	padding-top: 20px;
+}
+
+.header{
+	position: relative;
+	float: left;
+	clear: both;
+	padding-left: 25%;
+	text-align: left;
+
+}
+
+.header h3{
+	font-family: Garamond,serif;
+	color: #df8020;
+	margin-bottom: 20px;
+	color: #cc8033;
+}
+
+.info{
+	position: relative;
+	float: right;
+	font-family: Verdana, sans-serif;
+}
+
+#ed {
+	padding-right: 25%;
+}
+
+#expr {
+	padding-right: 37.5%;
+
+}
+
+#expr p{
+	padding-right: 10%;
+}
+
+#Hobbies{
+	padding-right: 38.5%;
+}
+
+#References{
+	padding-right: 37%;
+	padding-top: 5px;
+}
